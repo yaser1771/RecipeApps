@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Recipes>
+    <Recipe type="Breakfast">Breakfast</cat>
+    <Recipe type="Lunch">Lunch</cat>
+    <Recipe type="Dinner">Dinner</cat>
+</Recipes>
